@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header, footer {
+    background-color: #c75151;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#madLibOutput {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Add more styles based on your creativity and design preferences */
